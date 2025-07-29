@@ -1,7 +1,7 @@
 # Stealing a majority of this from Hands-On Machine Learning by Aurelien Geron
 # Environment probably contains way more than I need but lets try it anyways
 
-name: homl3
+name: MLB_v1
 channels:
   - conda-forge
   - defaults
